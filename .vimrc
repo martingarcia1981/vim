@@ -1,7 +1,7 @@
 set number relativenumber
 set incsearch
 set hlsearch
-
+set ignorecase smartcase
 
 abbr widht width
 abbr heigth height
