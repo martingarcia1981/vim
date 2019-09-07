@@ -1,3 +1,8 @@
 set number relativenumber
 set incsearch
 set hlsearch
+
+
+abbr widht width
+abbr heigth height
+abbr lenght length
